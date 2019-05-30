@@ -1,0 +1,11 @@
+# Application global resources
+
+Application.name = PRETO
+Application.title = PRETO - Text Preprocessing Tool for Turkish & English
+Application.version = 1.0
+Application.vendor = Volkan TUNALI
+Application.homepage = http://www.vtunali.com
+Application.description = PRETO - Text Preprocessing Tool for Turkish & English
+Application.vendorId = VT
+Application.id = PRETO
+Application.lookAndFeel = system
